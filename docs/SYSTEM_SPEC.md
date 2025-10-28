@@ -30,7 +30,7 @@
 |-----------|-----------|------|
 | Identity | 使用者、登入、權限、節點架構 | ✅ 已完成 |
 | Directory | 組織 / 部門 / 成員結構管理 | 🟡 開發中 |
-| AccessControl | 權限與資源控管（Node-based） | 🔲 尚未開發（規劃中） |
+| AccessControl | 權限與資源控管（Node-based） | 🟡 開發中 |
 | Finance | 應收應付、月帳、群組結算 | 🟡 設計中 |
 | Subscription | 訂閱方案與方案權限控制 | 🟡 設計中 |
 | Audit | 系統審計與操作紀錄 | ⏳ 計畫中 |
@@ -123,10 +123,10 @@
 
 ---
 
-### 🧩 Module: AccessControl（尚未開發）
+### 🧩 Module: AccessControl（開發中）
 
-> 🔲 狀態：規劃中。  
-> 預期作為全系統授權核心，負責 Node-based 授權、角色群組與資源權限分配。
+> 🟡 狀態：開發中。
+> 目標是成為全系統授權核心，負責 Node-based 授權、角色群組與資源權限分配。
 
 #### 2.1 模組目的
 集中管理授權邏輯與資源權限，提供統一的 Policy Provider 供其他模組呼叫。
