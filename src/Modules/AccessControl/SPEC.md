@@ -1,6 +1,6 @@
 # AccessControl Module Specification
 
-> 狀態：開發中
+> 🔲 Status: Not yet developed (Planning)
 
 ## 1. 模組目的（Purpose）
 統一管理 MonoClean 內所有資源的授權邏輯，提供 Policy Provider、權限合併與有效權限查詢能力。
